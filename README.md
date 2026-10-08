@@ -1,16 +1,138 @@
-# React + Vite
+# 🚀 Frontend Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive, and animation-focused frontend developer portfolio built with **React, Tailwind CSS, and GSAP**.
 
-Currently, two official plugins are available:
+The portfolio is designed to showcase frontend development skills, real-world projects, UI/UX work, and interactive web experiences through smooth animations and carefully designed interactions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio follows a dark, modern, and futuristic visual style with a strong focus on:
 
-## Expanding the ESLint configuration
+- Interactive UI
+- Smooth page transitions
+- GSAP animations
+- Scroll-based animations
+- Micro-interactions
+- Responsive layouts
+- Project case studies
+- Modern frontend technologies
+- Clean component architecture
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The goal is not just to display projects, but to demonstrate how I approach **frontend development, animation, interaction, and user experience**.
+
+---
+
+## 🎨 Design Direction
+
+### Visual Style
+
+- Dark modern interface
+- Premium developer portfolio aesthetic
+- Minimal but interactive UI
+- Blue / purple accent gradients
+- Glassmorphism-inspired cards
+- Soft glow effects
+- Large typography
+- Rounded UI components
+- Subtle background elements
+- Smooth hover interactions
+
+### Design Principles
+
+The portfolio follows these principles:
+
+1. Keep the interface clean and readable.
+2. Use animation to improve the user experience.
+3. Avoid unnecessary animation.
+4. Maintain consistent spacing and typography.
+5. Make projects the primary focus.
+6. Keep interactions smooth and responsive.
+7. Ensure the website works across desktop, tablet, and mobile devices.
+
+---
+
+# 📄 Pages
+
+## 1. Home
+
+The homepage is the main showcase of the portfolio.
+
+### Sections
+
+- Navigation
+- Hero section
+- Introduction
+- Developer profile
+- CTA buttons
+- Experience / statistics
+- Featured projects
+- Skills preview
+- About preview
+- Contact CTA
+- Footer
+
+### Hero Section
+
+The hero introduces me as a frontend developer.
+
+Example:
+
+> Hi, I'm  
+> Sanket Patil  
+> Frontend Developer
+
+The hero includes:
+
+- Animated heading
+- Short introduction
+- Profile image
+- Primary CTA
+- Secondary CTA
+- Decorative animated elements
+
+### Hero Animations
+
+GSAP can be used for:
+
+- Text reveal
+- Character / word animation
+- Profile image reveal
+- Floating elements
+- Background movement
+- CTA entrance animation
+- Mouse movement interaction
+
+---
+
+# 👨‍💻 About Page
+
+The About page provides more information about my development journey and experience.
+
+### Sections
+
+- Introduction
+- Experience
+- Development journey
+- Skills
+- Personal approach
+- Career timeline
+- Developer philosophy
+
+### Experience Timeline
+
+The timeline can display:
+
+```text
+Learning
+   ↓
+Frontend Development
+   ↓
+React Development
+   ↓
+WordPress Development
+   ↓
+Professional Experience
+   ↓
+Current Projects
