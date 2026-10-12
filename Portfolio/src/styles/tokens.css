@@ -1,0 +1,24 @@
+:root {
+  color-scheme: dark;
+  font-family: "Inter", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  --color-bg: #050b1a;
+  --color-surface: #0a1428;
+  --color-surface-2: #0f1b35;
+  --color-border: rgba(80, 140, 255, 0.15);
+  --color-primary: #2f6bff;
+  --color-cyan: #38bdf8;
+  --color-glow: rgba(47, 107, 255, 0.45);
+  --color-text: #e6eeff;
+  --color-muted: #8fa3c7;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --gutter: clamp(20px, 3.4vw, 48px);
+  --content-width: 1920px;
+  --section-space: clamp(76px, 8vw, 112px);
+  --radius-sm: 12px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+}
