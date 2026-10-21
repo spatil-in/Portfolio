@@ -105,8 +105,8 @@ export const profile = {
   phone: "+91 95793 75942",
   phoneHref: "tel:+919579375942",
   location: "Pune, Maharashtra",
-  linkedin: "https://www.linkedin.com/in/sanket-patil-9a9361262",
-  resume: "/Sanket_Patil_Resume.pdf",
+  linkedin: "https://www.linkedin.com/in/spatil-in/",
+  resume: "/Portfolio/Sanket-Patil-Resume.pdf ",
 };
 
 // Add more here (GitHub, X…) once you have the links — they appear in the footer, menu and contact section.
